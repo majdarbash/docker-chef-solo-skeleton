@@ -22,6 +22,10 @@ package ['ntp', 'htop', 'vim'] do
     action :install
 end
 
+package ['redis-server'] do
+    action :install
+end
+
 
 
 template '/etc/nginx/sites-enabled/default' do
