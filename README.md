@@ -1,3 +1,6 @@
+# This repository is deprecated.
+# Instead use: [https://github.com/majdarbash/docker-chef-nginx](https://github.com/majdarbash/docker-chef-nginx)
+
 # docker-chef-solo-skeleton
 Required files and explanation to provision docker image with chef-solo using custom cookbooks
 
